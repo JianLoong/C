@@ -120,7 +120,7 @@ var NAVTREEINDEX =
 "annotated.html",
 "d4/dd4/struct_graph.html#a72bb0a04571b49a568e0eed371a35c33",
 "d8/d7a/structtnode.html#ae1f202bf98d22f8316eeb71b68a59951",
-"de/dac/sudoku__solver_8c.html"
+"de/d7b/group__vec__3d.html#gaf9ee870d4922e488bdd3e7262485c270"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
